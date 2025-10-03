@@ -1,4 +1,4 @@
-# 🎓 Cổng thông tin Đại học Harvard (Demo)
+## 🎓 Cổng thông tin Đại học Harvard (Demo)
 
 Một project demo được xây dựng bằng **Next.js 13 (App Router)** và **Tailwind CSS**.  
 
@@ -12,9 +12,11 @@ Một project demo được xây dựng bằng **Next.js 13 (App Router)** và *
 
 ## 🛠 Cách chạy project
 - Clone repo
+  ```bash
   git clone https://github.com/<justAchillGuy8386>/UniversityInfoPage
   cd UniversityInfoPage
 - Chạy
+  ```bash
   npm install
   npm rundev
   trong terminal
