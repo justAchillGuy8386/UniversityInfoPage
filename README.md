@@ -13,7 +13,7 @@ Một project demo được xây dựng bằng **Next.js 13 (App Router)** và *
 ## 🛠 Cách chạy project
 - Clone repo
   ```bash
-  git clone https://github.com/<justAchillGuy8386>/UniversityInfoPage
+  git clone https://github.com/justAchillGuy8386/UniversityInfoPage
   cd UniversityInfoPage
 - Chạy trong terminal
   ```bash
