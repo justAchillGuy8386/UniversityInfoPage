@@ -15,9 +15,8 @@ Một project demo được xây dựng bằng **Next.js 13 (App Router)** và *
   ```bash
   git clone https://github.com/<justAchillGuy8386>/UniversityInfoPage
   cd UniversityInfoPage
-- Chạy
+- Chạy trong terminal
   ```bash
   npm install
   npm rundev
-  trong terminal
 - Mở http://localhost:300 để xem kết quả
