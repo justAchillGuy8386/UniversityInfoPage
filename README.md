@@ -18,5 +18,5 @@ Một project demo được xây dựng bằng **Next.js 13 (App Router)** và *
 - Chạy trong terminal
   ```bash
   npm install
-  npm rundev
+  npm run dev
 - Mở http://localhost:300 để xem kết quả
