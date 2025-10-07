@@ -12,9 +12,12 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xl">U</span>
-            </div>
+            {/* Logo image */}
+            <img
+              src="/harvard-logo.png"
+              alt="Logo Đại học Harvard"
+              className="w-10 h-10 object-cover"
+            />
             <div>
               <h1 className="text-xl font-bold text-gray-800">Đại học Harvard</h1>
               <p className="text-sm text-gray-600">Cổng thông tin</p>
